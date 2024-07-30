@@ -15,6 +15,9 @@ The script performs the following operations on an e-commerce dataset:
 
 These operations are performed using both DuckDB and pandas, and the execution time for each operation is measured and compared.
 
+![image](https://github.com/user-attachments/assets/75f05ccc-0a76-49dd-a4bc-24458b32c1e0)
+
+
 ## Requirements
 
 - Python 3.7+
